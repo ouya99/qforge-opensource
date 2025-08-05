@@ -64,6 +64,8 @@ const DEFAULT_CONTRACT_INDEXES = {
   Qbay: 12,
   QDRAW: 15,
   Qdraw: 15,
+  QMIX: 16,
+  Qmix: 16,
 };
 
 // Predefined RPC configurations

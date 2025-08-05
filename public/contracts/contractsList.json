@@ -13,5 +13,6 @@
   "Qbay.h",
   "Qswap.h",
   "Nostromo.h",
-  "Qdraw.h"
+  "Qdraw.h",
+  "Qmix.h"
 ]

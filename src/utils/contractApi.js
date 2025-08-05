@@ -60,7 +60,7 @@ export async function queryContract(
   let contractIdxNum = contractIndex;
 
   if (typeof contractIndex === 'string') {
-    contractIdxNum = 15; // QDRAW hardcoded- getContractIndex(contractIndex, customIndexes);
+    contractIdxNum = 16; // QMIX - QDRAW 15 hardcoded- getContractIndex(contractIndex, customIndexes);
   }
 
   const encodedData = encodeParams(params, inputFields, qHelper);
